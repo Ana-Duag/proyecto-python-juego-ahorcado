@@ -1,6 +1,6 @@
 # PROYECTO 1: JUEGO BÁSICO EN PYTHON. EL AHORCADO
 
-Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Civil. Proyecto elaborado por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab (presentado en Agosto de 2024).
+Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Civil. Proyecto elaborado por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab (año 2024).
 
 
 ---
