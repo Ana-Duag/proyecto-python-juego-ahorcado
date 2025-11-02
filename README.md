@@ -1,13 +1,13 @@
-# PROYECTO: JUEGO BÁSICO EN PYTHON. EL AHORCADO
+## PROYECTO: JUEGO BÁSICO EN PYTHON. EL AHORCADO
 
-Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Civil. Proyecto elaborado por Ana Pilar Dueñas Agudo en el Bootcamp de Análisis de Datos de Adalab (año 2024).
+Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Civil. Proyecto elaborado por **Ana Pilar Dueñas Agudo** en el **Bootcamp de Análisis de Datos de Adalab (año 2024)**.
 
 
 ---
 
-## Cómo jugar
+### Cómo jugar
 
-### Dos jugadoras
+#### Dos jugadoras
 - El programa elige **una palabra secreta al azar** relacionada con el mundo de la ingeniería civil.  
 - El/la jugador/a actual introduce una letra:  
   - Si acierta, la letra aparece en la palabra.  
@@ -19,7 +19,7 @@ Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Ci
 
 ---
 
-## Partes del código
+### Partes del código
 
 - **words**: lista de palabras de temática ingenieril.  
 - **phrases**: diccionario con frases aleatorias de bienvenida, acierto, fallo, victoria y derrota.  
@@ -31,7 +31,7 @@ Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Ci
 
 ---
 
-## Requisitos / Herramientas necesarias
+### Requisitos / Herramientas necesarias
 
 Para poder ejecutar el juego necesitas tener instalado en tu ordenador:
 
@@ -43,7 +43,7 @@ Para poder ejecutar el juego necesitas tener instalado en tu ordenador:
 
 ---
 
-## Mejoras futuras
+### Mejoras futuras
   **Técnicas**
   - Dividir el código en funciones para hacerlo más modular y fácil de mantener.
   - Soportar palabras con espacios.
