@@ -1,7 +1,8 @@
-# Proyecto de Juegos Clásicos en Python: El Ahorcado
+# Juego Clásico en Python. El Ahorcado
 
-Juego del ahorcado desarrollado en lenguaje Python, ambientado en Ingeniería Civil. Proyecto elaborado por **Ana  Dueñas** en el **Bootcamp de Análisis de Datos de Adalab (Agosto 2025)**.
+### Proyecto desarrollado por Ana Dueñas, Adalab, Agosto 2025. 
 
+Juego del ahorcado desarrollado en lenguaje Python, ambientando en elementos típicos de diseño y construcción en Ingeniería Civil.
 
 ---
 
