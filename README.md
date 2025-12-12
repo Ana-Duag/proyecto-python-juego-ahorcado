@@ -1,6 +1,6 @@
 # Juego Clásico en Python. El Ahorcado
 
-### Proyecto desarrollado por Ana Dueñas, Adalab, Agosto 2025. 
+### Proyecto desarrollado por Ana Dueñas Agudo, Adalab, Agosto 2025. 
 
 Juego del ahorcado desarrollado en lenguaje Python, ambientando en elementos típicos de diseño y construcción en Ingeniería Civil.
 
