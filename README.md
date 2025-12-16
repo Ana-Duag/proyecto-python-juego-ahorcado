@@ -42,18 +42,4 @@ Para poder ejecutar el juego necesitas tener instalado en tu ordenador:
   - [VS Code](https://code.visualstudio.com/)  
 - La propia terminal de Python  
 
----
-
-### Mejoras futuras
-  **Técnicas**
-  - Dividir el código en funciones para hacerlo más modular y fácil de mantener.
-  - Soportar palabras con espacios.
-  - Permitir modo 1 jugador o 2 jugadores, y un modo contra la máquina.
-  - Guardar el marcador entre partidas en un archivo externo (.txt o .json).
-
-  **Experiencia de juego**
-  - Permitir rejugar sin reiniciar el programa.
-  - Añadir niveles de dificultad (vidas, longitud de palabras).
-
----
 
